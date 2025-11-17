@@ -11,46 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Engineering, Penn State University, 2027 (expected)
+* M.S. in Computer Engineering, King Fahd University of Petroleum and Minerals, 2019
+* B.S. in Computer Science, King Fahd University of Petroleum and Minerals, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Research Assistant
+  * Penn State University
+  * Duties includes: extensive research on Computational Storage Devices (CSDs) Emulation
+  * Supervisor: Prof. Mahmut Kandemir
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Teaching Assistant
+  * Penn State University
+  * Duties included: teaching CMPEN431 Computer Architecture class, developing homeworks, quizzes, and projects
+  * Supervisor: Prof. Mahmut Kandemir
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-Present: Lecturer
+  * King Fahd University of Petroleum and Minerals
+  * Duties included: Advising internship students, teaching and developing slides and projects for Computer Architecture lab. Teaching and developing lab manual for Embedded Systems course. Teaching Introduction to Programming Using Python and C lab.
+  * Supervisor: Prof. Aiman El-Maleh
+
+* 2016-2021: Graduate Assistant
+  * King Fahd University of Petroleum and Minerals
+  * Duties included: Teaching and developing slides and projects for Computer Architecture lab. Teaching labs for Digital Design course. Teaching Embedded Systems lab.
+  * Supervisor: Prof. Aiman El-Maleh  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Arabic (Native Proficiency)
+  * English (Fluent)
+* Software and Programming Languages
+  * C/C++
+  * CUDA
+  * SystemVerilog, Verilog
+  * VHDL
+  * Java
+  * PHP
+  * Python
+  * Rust
+  * Matlab
+  * Javascript
+  * Latex
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +67,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Community Involvements
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer for 4 years in KFUPM Volunteering Data and a team leader in one of them.
+* Volunteer for UNICEF club in US for multiple events.
+* Participated in Emergency Medical Services (EMS) Club in US.
