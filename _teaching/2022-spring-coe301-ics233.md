@@ -14,19 +14,19 @@ Introduction to computer organization, machine instructions, assembly language p
 
 
 
-Lab Manual
+Lab Manual / Slides
 ======
-* Introduction to MARS ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_1_Introduction_MARS.pdf))
-* Introduction to MIPS Assembly Language Programming ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_2_Introduction_MIPS_Assembly.pdf))
-* Integer Arithmetic ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_3_IntegerArithmetic.pdf))
-* Flow Control ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_4_FlowControl.pdf))
-* Arrays and Files ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_5_Arrays_Files.pdf))
-* Integer Multiplication and Division ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_6_MultiplicationDivision.pdf))
-* MIPS Functions and the Stack Segment (Merge sort) ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_7_MIPS_Functions.pdf))
-* Exceptions and I/O ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_8_MIPS_Exceptions_and_IO.pdf))
-* Floating Point ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab_9_Floating_Point.pdf))
-* Introduction to Logisim (revised Lab10 tasks) ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_10_Introduction_Logisim.pdf))
-* Datapath Main Component Design ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_11_Datapath_Component_Design.pdf))
-* Single-Cycle CPU Design ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_12_Single_Cycle_CPU_Design.pdf))
-* Pipelined CPU Design with Data Forwarding ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_13_Pipelined_CPU_Design_with_Data_Forwarding.pdf))
-* Pipelined CPU Design with Stall Capability ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_14_Pipelined_CPU_Design_with_Stall_Capability.pdf))
+* Lab01: Introduction to MARS ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab01_Introduction_to_MARS.pdf))
+* Lab02: Introduction to MIPS Assembly Language Programming ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab02_Introduction_to_MIPS_Assemply_Programming.pdf))
+* Lab03: Integer Arithmetic ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab03_Integer_Arithmetic.pdf))
+* Lab04: Flow Control ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab04_Flow_Control.pdf))
+* Lab05: Arrays and Files ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab05_Arrays_Files.pdf))
+* Lab06: Integer Multiplication and Division ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab06_Multiplication_Division.pdf))
+* Lab07: MIPS Functions and the Stack Segment (Merge sort) ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab07_MIPS_Functions.pdf))
+* Lab08: Exceptions and I/O ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab08_MIPS_Exceptions_IO.pdf))
+* Lab09: Floating Point ([PDF](https://saleh1204.github.io/files/coe301/201/COE301_Lab09_Floating_Point.pdf))
+* Lab10: Introduction to Logisim (revised Lab10 tasks) ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_10_Introduction_Logisim.pdf))
+* Lab11: Datapath Main Component Design ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_11_Datapath_Component_Design.pdf))
+* Lab12: Single-Cycle CPU Design ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_12_Single_Cycle_CPU_Design.pdf))
+* Lab13: Pipelined CPU Design with Data Forwarding ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_13_Pipelined_CPU_Design_with_Data_Forwarding.pdf))
+* Lab14: Pipelined CPU Design with Stall Capability ([PDF](https://saleh1204.github.io/files/coe301/COE301_Lab_14_Pipelined_CPU_Design_with_Stall_Capability.pdf))
