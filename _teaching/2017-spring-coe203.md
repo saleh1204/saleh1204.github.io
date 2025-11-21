@@ -1,0 +1,30 @@
+---
+title: "COE 203"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2017-spring-coe203
+venue: "King Fahd University of Petroleum and Minerals, Computer Engineering Department"
+date: 2017-01-26
+location: "Dhahran, Saudi Arabia"
+---
+
+Digital Logic Laboratory
+
+Introduction to information representation, Signals and bits, Logic implementation using discrete logic components (TTL, CMOS). Introduction to Field Programmable Logic Arrays (FPGAs) design flow: design capture (schematic capture, HDL design entry, design verification and test, implementation (including some of its practical aspects), and debugging. Use of CAD tools to design, simulate and implement digital logic circuits on FPGA prototyping boards. Introduction to Verilog.
+
+[Syllabus](https://saleh1204.github.io/files/coe203/Syllabus for COE 203-162.pdf)
+
+Lab Manual
+======
+* Experiment 01. Logic Gates ([PDF](https://saleh1204.github.io/files/coe203/1-logic-gates.pdf))
+* Experiment 02. Integrated Circuits; Electrical Properties and Specifications ([PDF](https://saleh1204.github.io/files/coe203/2-electrical-properties.pdf))
+* Experiment 03. Digital Circuit Prototyping Using FPGAs ([PDF](https://saleh1204.github.io/files/coe203/3-fpgas.pdf))
+* Experiment 04. Hierarchical Design ([PDF](https://saleh1204.github.io/files/coe203/4-hierarchical-design.pdf))
+* Experiment 05. Combinational Logic Design ([PDF](https://saleh1204.github.io/files/coe203/5-combinational-logic-design.pdf))
+* Experiment 06. Counters and Registers ([PDF](https://saleh1204.github.io/files/coe203/6-counters-registers.pdf))
+* Experiment 07. Multiplier Design ([PDF](https://saleh1204.github.io/files/coe203/7-multipliers.pdf))
+* Experiment 08. Clock ([PDF](https://saleh1204.github.io/files/coe203/8-clock.pdf))
+* Experiment 09. Building a Digital Timer ([PDF](https://saleh1204.github.io/files/coe203/9-timer.pdf))
+* Experiment 10. Reaction Timer: Part 1. Generating Random Delay ([PDF](https://saleh1204.github.io/files/coe203/10-reaction-timer-1.pdf))
+* Experiment 11. Reaction Timer: Part 2. Response Time ([PDF](https://saleh1204.github.io/files/coe203/11-reaction-timer-2.pdf))
+* Experiment 12. Traffic Light ([PDF](https://saleh1204.github.io/files/coe203/12-traffic-light.pdf))

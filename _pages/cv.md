@@ -24,7 +24,7 @@ Work experience
 
 * Fall 2024: Teaching Assistant
   * Penn State University
-  * Duties included: teaching CMPEN431 Computer Architecture class, developing homeworks, quizzes, and projects
+  * Duties included: assist teaching CMPEN431 Computer Architecture class, developing assignments, quizzes, and projects
   * Supervisor: Prof. Mahmut Kandemir
 
 * 2021-Present: Lecturer
@@ -52,7 +52,7 @@ Skills
   * Python
   * Rust
   * Matlab
-  * Javascript
+  * JavaScript
   * Latex
 
 Publications
