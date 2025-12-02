@@ -154,8 +154,12 @@ social:
 analytics:
   provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : "G-6M6GQ5ZMP0"
+    tracking_id          : "G-23B6BGFDTV"
 
+# jekyll_analytics:
+  # GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    # id: G-23B6BGFDTV        # Required - replace with your tracking id
+    # anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Reading Files
 include:
@@ -310,6 +314,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-figure
+  # - jekyll-analytics
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -319,7 +325,10 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-figure
 
+jekyll-figure:
+  paragraphs: false
 
 # Archives
 #  Type
