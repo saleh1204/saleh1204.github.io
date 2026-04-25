@@ -25,12 +25,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Saleh AlSaleh"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Student @ Penn State University"
+  pronouns         : # example: "she/her"
+  bio              : "PhD Student @ Penn State University \n Lecturer @ King Fahd University of Petroleum & Minerals"
   location         : "State College, PA"
   employer         : "Penn State University | KFUPM"
   uri              : # URL
-  email            : "salehs@kfupm.edu.sa" 
+  email            : "salehs@kfupm.edu.sa"
+  email2           : "saa6315@psu.edu"
 
   # Academic websites
   academia         : # URL
